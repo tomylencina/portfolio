@@ -69,4 +69,5 @@ nav {
 img{
     display: grid;
     margin: auto;
+    border-radius: 1000px;
 }
